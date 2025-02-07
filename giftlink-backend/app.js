@@ -85,6 +85,7 @@ const giftRoutes = require('./routes/giftRoutes');
 // Search API Task 1: Importer searchRoutes et le stocker dans une constante appelée searchRoutes
 const searchRoutes = require('./routes/searchRoutes');
 
+
 const pinoHttp = require('pino-http');
 const logger = require('./logger');
 
