@@ -1,6 +1,6 @@
 
 const express = require('express');
-const connectToDatabase = require('../db'); 
+const connectToDatabase = require("../models/db");
 
 const router = express.Router();
 
